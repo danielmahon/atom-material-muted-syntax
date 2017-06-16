@@ -1,6 +1,6 @@
-![](http://i.imgur.com/f58FC9u.png)
+![](http://i.imgur.com/KgLUAYq.png)
 ---
 
-A syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).
+A (slightly muted) syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Forked from [Atom Material Syntax](https://github.com/atom-material/atom-material-syntax). Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).
 
-![screenshot](http://i.imgur.com/3YQeDps.png)
+![screenshot](http://i.imgur.com/pucIM4Q.png)
